@@ -11,11 +11,12 @@ export const Home = () => {
       <RevealOnScroll>
         <div className="text-center z-10 px-4">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-right">
-            I'm Hardik Parmar
+            I'm Surendra Kumar Yadav, Aspiring Data Engineer.
           </h1>
 
           <p className="tex-gray-400 text-lg mb-8 max-w-lg mx-auto"> 
-          I'm a full-stack developer passionate about building optimized, scalable web applications. My focus is on creating efficient solutions that enhance performance while delivering a seamless user experience.
+         I'm a Data Science enthusiast passionate about extracting insights from data and building intelligent solutions. I work with Python, SQL, and machine learning techniques to analyze data, build predictive models, and solve real-world problems.
+
           </p>
           <div className="flex justify-center space-x-4">
             <a
