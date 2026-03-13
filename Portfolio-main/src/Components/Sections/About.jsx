@@ -15,7 +15,8 @@ export const About = () => {
 
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-              Passionate full-stack developer with a strong foundation in the MERN stack, data structures, and algorithms, dedicated to building optimized and scalable web applications.
+              I am a passionate developer who loves building web applications.
+              
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
