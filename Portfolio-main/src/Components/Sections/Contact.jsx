@@ -65,7 +65,7 @@ export const Contact = () => {
                 required
                 value={formData.email}
                 className="w-full bg-white/5 border border-white/10 rounded px-4 py-3 text-white transition focus:outline-none focus:border-blue-500 focus:bg-blue-500/5"
-                placeholder="example@gmail.com"
+                placeholder="yadavsurendrakumar992@gmail.com"
                 onChange={(e) =>
                   setFormData({ ...formData, email: e.target.value })
                 }
@@ -98,7 +98,8 @@ export const Contact = () => {
 
           <div className="flex justify-center space-x-10 mt-8">
             <a
-              href="https://www.linkedin.com/in/hardik-sp/"
+              href="https://www.linkedin.com/in/surendra-yadav-58b23127b/"
+/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white text-2xl transition-transform transform hover:scale-125 hover:text-blue-400"
@@ -106,7 +107,7 @@ export const Contact = () => {
               <FaLinkedin />
             </a>
             <a
-              href="https://github.com/hardik4603"
+              href="https://github.com/kumarsurendra10"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white text-2xl transition-transform transform hover:scale-125 hover:text-gray-300"
@@ -114,7 +115,7 @@ export const Contact = () => {
               <FaGithub />
             </a>
             <a
-              href="https://leetcode.com/u/hardikparmar4603/"
+              href="https://leetcode.com/u/surruKumar/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white text-2xl transition-transform transform hover:scale-125 hover:text-yellow-400"
