@@ -69,10 +69,9 @@ export const Projects = () => {
               transition-all
             "
             >
-              <h3 className="text-xl font-bold mb-2">Employee -- Management System</h3>
+              <h3 className="text-xl font-bold mb-2">NLP Trend Analysis using Reuters Dataset</h3>
               <p className="text-gray-400 mb-4">
-              EmpNumber is a unique alphanumeric identifier assigned to each employee in the dataset. It is used only for identification purposes and does not contribute as a meaningful feature for predicting employee performance.
-                
+             This project uses Reuters-21578 Dataset to analyze trends and patterns in news articles using techniques from Natural Language Processing. By applying text preprocessing and machine learning methods, the model identifies important topics and trends within large collections of news data.
               </p>
               
               <div className="flex justify-between items-center">
