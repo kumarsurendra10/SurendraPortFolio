@@ -15,9 +15,11 @@ export const Projects = () => {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
-              <h3 className="text-xl font-bold mb-2"> ChatBuzz</h3>
+              <h3 className="text-xl font-bold mb-2"> MY-Project-DataScience</h3>
               <p className="text-gray-400 mb-4">
-              Developed a real-time chat application that allows users to send messages, share media, and connect through high-quality video calls.
+    Developed a Customer Churn Analysis model to identify customers likely to leave a service using machine learning techniques. Analyzed historical customer data with Python and built predictive models to help businesses improve retention strategies and reduce churn.
+
+                
               </p>
               
 
@@ -40,9 +42,11 @@ export const Projects = () => {
               transition-all
             "
             >
-              <h3 className="text-xl font-bold mb-2">CodeShelf</h3>
+              <h3 className="text-xl font-bold mb-2">Handwritten Digit Recognition using CNN</h3>
               <p className="text-gray-400 mb-4">
-              Implemented a Code Saver platform using ReactJS and Local Storage that allows users to save their code or notes for future reference.
+             Developed a Handwritten Digit Recognition system using Convolutional Neural Networks (CNN) to accurately classify digits from image data. Trained the model on the MNIST dataset using Python and deep learning libraries to achieve high prediction accuracy.
+
+                
               </p>
               
               <div className="flex justify-between items-center">
@@ -65,9 +69,10 @@ export const Projects = () => {
               transition-all
             "
             >
-              <h3 className="text-xl font-bold mb-2">CloudCast</h3>
+              <h3 className="text-xl font-bold mb-2">Employee -- Management System</h3>
               <p className="text-gray-400 mb-4">
-              Fetched real-time weather updates using a weather API and built a user-friendly, responsive UI with JavaScript for an enhanced live weather experience.
+              EmpNumber is a unique alphanumeric identifier assigned to each employee in the dataset. It is used only for identification purposes and does not contribute as a meaningful feature for predicting employee performance.
+                
               </p>
               
               <div className="flex justify-between items-center">
@@ -90,9 +95,11 @@ export const Projects = () => {
               transition-all
             "
             >
-              <h3 className="text-xl font-bold mb-2">Currency Convertor</h3>
+              <h3 className="text-xl font-bold mb-2"> Solar Panel Intensity Prediction Model</h3>
+              
               <p className="text-gray-400 mb-4">
-              Developed a real-time currency converter app that instantly converts amounts between 150+ currencies using up-to-date exchange rates.
+              A Solar Panel Intensity Prediction Model uses Python to analyze weather and environmental data to estimate the amount of solar energy a panel can generate. It helps improve energy efficiency by predicting solar radiation levels and optimizing solar power production.
+                
               </p>
               
               <div className="flex justify-between items-center ">
